@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_home"
+        android:title="메인"
+        android:icon="@drawable/baseline_home_filled_24"/>
+    <item
+        android:id="@+id/fragment_calendar"
+        android:title="캘린더"
+        android:icon="@drawable/baseline_calendar_month_24"/>
+    <item
+        android:id="@+id/fragment_settings"
+        android:title="설정"
+        android:icon="@drawable/baseline_settings_24"/>
+
+
+</menu>

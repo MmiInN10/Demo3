@@ -1,0 +1,17 @@
+<resources>
+    <!-- BottomNavigationView 아이템 텍스트 스타일 -->
+    <style name="BottomNavigationItemTextStyle">
+        <item name="android:textSize">14sp</item>  <!-- 텍스트 크기 -->
+        <item name="android:textColor">@android:color/black</item>  <!-- 텍스트 색상 -->
+    </style>
+    <!-- res/values/styles.xml -->
+    <style name="TimePickerDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+    </style>
+
+</resources>

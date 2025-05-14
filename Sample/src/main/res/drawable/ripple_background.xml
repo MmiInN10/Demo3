@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/transparent">
+    <!-- 기본 배경색을 정의 -->
+    <item android:drawable="@android:color/white" />
+</ripple>

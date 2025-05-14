@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: C" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.11.1/transforms/2b0b31689aefa6fe5353fac921b77b55/transformed/jetified-Live2DCubismCore/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.11.1/transforms/2b0b31689aefa6fe5353fac921b77b55/transformed/jetified-Live2DCubismCore/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

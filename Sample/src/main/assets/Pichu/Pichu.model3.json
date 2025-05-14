@@ -1,0 +1,41 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Pichu.moc3",
+    "Textures": [
+      "Pichu.2048/texture_00.png"
+    ],
+    "Physics": "Pichu.physics3.json",
+    "DisplayInfo": "Pichu.cdi3.json",
+    "Expressions": [
+      { "Name": "smile", "File": "expressions/Happy.exp3.json" },
+      { "Name": "angry", "File": "expressions/Angry.exp3.json" },
+      { "Name": "sad", "File": "expressions/Sad.exp3.json" },
+      { "Name": "Shock", "File": "expressions/Shock.exp3.json" },
+      { "Name": "neutral", "File": "expressions/Dispair.exp3.json" }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [ "ParamMouthOpenY" ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [ "ParamEyeLOpen", "ParamEyeROpen" ]
+    }
+  ],
+  "HitAreas": [
+    {
+      "Id": "HitAreaHead",
+      "Name": "Head"
+    },
+    {
+      "Id": "HitAreaBody",
+      "Name": "Body"
+    }
+  ]
+}
+

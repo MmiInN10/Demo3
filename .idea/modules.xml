@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Framework/Demo.Framework.iml" filepath="$PROJECT_DIR$/.idea/modules/Framework/Demo.Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.iml" filepath="$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Framework/framework/Demo.Framework.framework.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/Demo.Sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>
